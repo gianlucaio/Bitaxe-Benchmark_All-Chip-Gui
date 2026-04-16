@@ -41,7 +41,7 @@ Supports single-chip models (Gamma, Supra, Ultra — 5 V barrel jack) and dual-c
 |-------------|-------|
 | Python 3.11+ | `python3 --version` |
 | tkinter | Usually bundled. Linux: `sudo apt install python3-tk` |
-| Bitaxe running AxeOS | Firmware 2.x recommended (exposes errorPercentage) |
+| Bitaxe running AxeOS | Firmware 2.12 recommended (exposes errorPercentage) |
 
 No other dependencies. All other modules used (`csv`, `json`, `threading`, `queue`, `math`, `os`, `pathlib`, `datetime`) are part of the Python standard library.
 
